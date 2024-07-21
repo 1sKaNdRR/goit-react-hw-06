@@ -1,0 +1,36 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    max-width: 500px;
+    border-radius: 5px;
+    border: 2px solid;
+    padding: 10px;
+
+}
+
+.inputWrap {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 10px;
+
+}
+
+.fieldInput {
+    height: 35px;
+}
+
+.labelText {
+    font-size: 16px;
+}
+
+.button {
+    width: 150px;
+    height: 40px;
+    margin: 0 auto;
+    border-radius: 4px;
+}
+
+.errormsg {
+    color: red;
+}

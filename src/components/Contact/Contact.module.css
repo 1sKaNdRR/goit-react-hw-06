@@ -1,0 +1,16 @@
+.friendWrap {
+    border: 1px solid;
+    border-radius: 4px;
+    width: 300px;
+    padding: 10px;
+    flex-wrap: wrap;
+    flex-direction: row;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.button {
+    height: 50px;
+    width: 110px;
+}

@@ -1,0 +1,11 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    max-width: 525px;
+    margin-top: 15px;
+}
+
+.searchArea {
+    margin-bottom: 10px;
+    height: 35px;
+}
